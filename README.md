@@ -1,4 +1,6 @@
-![Airbnb](https://github.com/LucasOliveiraS/comparacao-modelos-analise-de-sentimento/blob/master/assets/logo.png)
+<p align="center">
+    ![Airbnb](https://github.com/LucasOliveiraS/comparacao-modelos-analise-de-sentimento/blob/master/assets/logo.png)
+</p>
 
 # Comparação de Modelos em Análise de Sentimento - Airbnb
 
