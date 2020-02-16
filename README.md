@@ -15,7 +15,7 @@ Os seguintes modelos foram utilizados para compor a análise:
 - LSTM com mecanismo de atenção;
 - Bidirectional Encoder Representations from Transformers(BERT).
 
-Artigo: ...
+Artigo: https://medium.com/data-hackers/compara%C3%A7%C3%A3o-de-modelos-em-an%C3%A1lise-de-sentimento-airbnb-4690212b275
 
 ## Dê uma estrela! :star:
 
